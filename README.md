@@ -28,6 +28,8 @@ Works directly in Chrome, Edge, and Brave — no switching apps required. Privac
 
 Upgrade to the Pro version for **$39.99** and unlock all premium features.
 
+**[Buy on Gumroad](https://devforgetools.gumroad.com/l/plrrr)** — Instant download, lifetime updates
+
 **[Buy Now (Stripe)](https://buy.stripe.com/3cI5kD4eP5wg7BCavOcZg1O)** — Secure checkout
 
 ## Installation
@@ -39,6 +41,7 @@ Upgrade to the Pro version for **$39.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://devforgetools.gumroad.com/l/plrrr)
 
 ## License
 
